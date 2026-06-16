@@ -590,7 +590,9 @@
       ],
       "message": "역사의 마지막은 두려움이 아니라 예수 그리스도의 승리와 하나님 나라의 완성이다.",
       "prev": "mission",
-      "next": null
+      "next": null,
+      "nextUrl": "https://centiger.github.io/CEN-Bible2.0/?stagehub=1",
+      "nextLabel": "시대탐험으로 이동"
     }
   ]
 }
